@@ -40,6 +40,7 @@ public class Application01 {
 
         w.star01();
         w.star02();
+        w.star03();
 
 
 

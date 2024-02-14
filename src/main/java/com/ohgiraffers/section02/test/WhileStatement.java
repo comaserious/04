@@ -134,6 +134,7 @@ public class WhileStatement {
                 k++;
             }
             System.out.println();
+            i++;
 
         }
 
