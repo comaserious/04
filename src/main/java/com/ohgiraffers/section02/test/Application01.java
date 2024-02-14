@@ -20,7 +20,32 @@ public class Application01 {
 //        f.star02();
 
 //        f.star03();
+
+
+        WhileStatement w = new WhileStatement();
+
+//        w.countNormal();
+
+//        w.countReverse();
+
+//        w.evenNum();
+//        w.Gugudan7();
+//        w.factorial();
+
+        Error e = new Error();
+
+//        e.error();
+
+//        e.forInfinite();
+
+        w.star01();
+        w.star02();
+
+
+
+
     }
+
 
 
 }

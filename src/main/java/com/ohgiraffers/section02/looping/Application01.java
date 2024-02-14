@@ -28,8 +28,23 @@ public class Application01 {
 
 //        b.printStatInputRowTimes();
 
-        b.pritnStarInputRowTimes02();
+//        b.pritnStarInputRowTimes02();
 
+        B_while c = new B_while();
+
+//        c.testSimpleWhileStatement();
+
+//        c.testWhileExample01();
+
+//        c.testWhileExample02();
+
+        B_doWhile d = new B_doWhile();
+
+//        d.testSimpleDoWhileStatement();
+
+//        d.testDoWhileExample01();
+
+        d.whileCanDo();
 
 
 

@@ -54,7 +54,7 @@ public class A_nestedFor {
 
         for (int i =1 ; i <=row; i++) {
 
-//            System.out.println("*****");
+//            System.out.println("*****");               //그냥 다섯개를 붙여도 되지만 하나씩 붙이는 연습을 해보자
 //            System.out.println();
 
             for (int j = 1 ; j <6; j++){
